@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm Gabriel
 <hr width="210">
 
+- 📕 IT student at IFCE
 - 🔭 I’m currently working on some random generic game that it will never be recognized, but i'll do it anyway just to have fun
 - 🌱 I’m currently learning Java and JavaScript
 - 💬 Ask me about Lua, i guess
