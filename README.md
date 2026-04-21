@@ -1,31 +1,36 @@
-### Hi there 👋 I'm Gabriel
-<hr width="210">
+<div align="center"><img align="center" src="https://capsule-render.vercel.app/api?type=speech&height=130&color=ffff&text=Hi%20there%20👋%20I'm%20Gabriel&section=footer&fontAlignY=65&fontSize=40&textBg=false&animation=twinkling&reversal=true&fontColor=000000" alt='header svg'/></div>
+<br>
 
-- 📕 IT student at IFCE
-- 🔭 I’m currently working on a escape room/light novel point and click game called 'Cartoon Size'
+- 📕 IT technician graduated from IFCE
+- 🔭 I’m currently working on a escape room/light novel point and click game called 'Cartoon Size' ---> <a href="https://gamejolt.com/games/cartoonsize/1023620">
+    <img alt="Gamejolt" src="https://m.gjcdn.net/fireside-post-image/600/24010743-ll-sfbhunum-v4.webp" style="height:23px; width:23px">
+  </a>
 - 📫 How to reach me: bilinhas1712@hotmail.com
-- 📜 Passionate about classical philosophy
-- 🎮 Favorite game genre: Metroidvania, rpg and openworld
-- 🎵 Music style: Classical music, blues and alternative rock (more specifically grunge). PS: I also play bass ;)
-
-Languages and engines that i use:
-
-<div style="display: inline_block">
-  <a href="https://www.python.org/"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>  
-  <a href="https://www.renpy.org/"><img align="center" alt="Renpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" /></a>
-  <a href="https://www.lua.org/"><img align="center" alt="Lua" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg"/></a>
-  <a href="https://www.java.com/"><img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"></a>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <a href="https://react.dev/"><img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></a>
-</div>
-
-<hr>
+- 📜 Passionate about classical philosophy and christian theology
+- 🎮 Favorite game genre: RPG and openworld
+- 🎵 Music style: Classical music, blues and alternative rock. PS: I also play bass (you can check out some of my covers by visiting the channel listed below)
 
 <div align="center">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bilinhas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilinhas&layout=compact&langs_count=7&theme=dark"/>
+Languages and tools:
+<br><br>
+<div style="display: flex; align-items: center;">
+
+  [![](https://skillicons.dev/icons?i=py,lua,java,html,css,js,nodejs,react,vscode,eclipse,sqlite,robloxstudio)](https://skillicons.dev)
+  <a href="https://www.renpy.org/">
+    <img alt="Renpy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/renpy/renpy-original.svg" style="height:48px; width:50px;">
+  </a>
 
 </div>
 
+<hr width="815">
+
+<div>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Bilinhas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bilinhas&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<hr></div>
+
+<div style="display:flex"> 
+  <a href="https://www.youtube.com/@Bilinhas" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://gamejolt.com/@Bilinhas" target="_blank"><img src="https://img.shields.io/badge/gamejolt-528f15?style=for-the-badge&logo=gamejolt&logoColor=white" target="_blank"></a>
+</div>
